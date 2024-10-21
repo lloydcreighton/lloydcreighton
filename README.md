@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## About me:
+My name is Lloyd Creighton, and I am a student at the University of Pretoria studying BSc Computer Science.
+My particular interests lie in Artificial Intelligence and Computer Security, with a dabbling of Theoretical Computer Science.
 <!--
 **lloydcreighton/lloydcreighton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
